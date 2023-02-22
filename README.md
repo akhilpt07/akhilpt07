@@ -1,4 +1,4 @@
 - 👋 Hi, I’m akhil
 - 👀 I’m interested in open source contribution 
-- 🌱 I’m currently working on data science
-- 💞️ I’m looking to collaborate on penpot
+- 🌱 I’m currently working on data visualization
+- 
